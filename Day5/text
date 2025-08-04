@@ -1,0 +1,15 @@
+css
+
+property//value
+
+
+selectors
+1,h1
+2, .class selectors
+
+3,  id selectors
+'4, attribute selector  - p[draggable == "false"] - html plus square brackets  for attribute
+
+
+5, *{} universaal selector
+
